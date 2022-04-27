@@ -36,4 +36,4 @@
   <br/>
 
   <hr/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Syed-Rehan-21f&label=Profile%20views&color=0e75b6&style=plastic" alt="Syed-Rehan-21b" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Syed-Rehan-21f&label=Profile%20views&color=0e75b6&style=plastic" alt="Syed-Rehan-21" /> </p>
