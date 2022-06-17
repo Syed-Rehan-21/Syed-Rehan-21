@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">, I'm [Rehan!](https://bio.link/syed_rehan) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Rehan!](https://bio.link/syed_rehan) 
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student.;DevOps%20Enthusiast.;Always%20learning%20new%20things.;&center=true&width=500&height=50"></p>
 
