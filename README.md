@@ -1,8 +1,10 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29">, I'm [Rehan!](https://bio.link/syed_rehan) 
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student.;DevOps%20Enthusiast.;Always%20learning%20new%20things.;&center=true&width=500&height=50"></p>
 
-___
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h2 align="center">🛠️ Skills<h2/>
 
