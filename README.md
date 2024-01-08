@@ -8,9 +8,9 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🛠️ Skills
+## `🛠️` Skills
 
-### </> Programming Languages
+### `</>` Programming Languages
 <p align="center">
   &emsp;
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
@@ -42,7 +42,7 @@
   </a>
 </p>
 
-### ⚙ Software & Tools
+### `⚙` Software & Tools
 <p align="center">
   &emsp;
   <a href="https://git-scm.com/" target="_blank">
